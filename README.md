@@ -6,16 +6,3 @@
 <h1>klavyede gösterilen harflere basarak hızlı yazma alışkanlık edinebilirsiniz</h1>
 <p>Janberd Media</p>
 <p>Janberd İbrahim Bekir Bektaş</p>
-<style>
-.resim{
-    border-radius:20px;
-     height: auto;
-     width:auto;
-}
-p{
-    font-weight: 800;
-}
-h1{
-    font-weight: 800;
-}
-    </style>
